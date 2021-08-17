@@ -5,6 +5,9 @@ body {
 h1 {
     color: white;
 }
+.result {
+    color: whitesmoke;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(58, 109, 218);
